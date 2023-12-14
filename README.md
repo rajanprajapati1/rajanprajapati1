@@ -20,12 +20,31 @@
 + a lot more ;)
 
 ## Skills
-- 👨‍💻  JavaScript, HTML ,CSS
-- ⚙️ React, NEXT JS, VANILLA JS
-- 👁️ SASS, CSS, Styled-components ,SCSS ,TAILWIND
-- 💽  MongoDB
-- 🔥  NodeJS ,ExpressJs , JWT ,PASSPORT JS
-+ a lot more :
+👨‍💻 **JavaScript, HTML, CSS**
+   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+   [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+⚙️ **React, NEXT JS, VANILLA JS**
+   [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/)
+   [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat)](https://nextjs.org/)
+   [![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+👁️ **SASS, CSS, Styled-components, SCSS, TAILWIND**
+   [![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat)](https://sass-lang.com/)
+   [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+   [![Styled-components](https://img.shields.io/badge/Styled_components-DB7093?logo=styled-components&logoColor=white&style=flat)](https://styled-components.com/)
+   [![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat)](https://sass-lang.com/)
+   [![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)](https://tailwindcss.com/)
+
+💽 **MongoDB**
+   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
+
+🔥 **NodeJS, ExpressJs, JWT, PASSPORT JS**
+   [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/)
+   [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com/)
+   [![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white&style=flat)](https://jwt.io/)
+   [![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?logo=passport&logoColor=white&style=flat)](http://www.passportjs.org/)
 
 
 👇 Hit in your console or terminal to connect with me.
