@@ -69,6 +69,7 @@
   <p align="center" id="result"></p>
 
   <script>
+```javascript
     const secretNumber = Math.floor(Math.random() * 100) + 1;
     let attempts = 0;
 
@@ -84,6 +85,7 @@
         document.getElementById('result').innerHTML = 'Too high! Try again.';
       }
     }
+```
   </script>
 </details>
 
