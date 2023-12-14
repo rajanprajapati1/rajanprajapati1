@@ -46,6 +46,15 @@
    [![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white&style=flat)](https://jwt.io/)
    [![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?logo=passport&logoColor=white&style=flat)](http://www.passportjs.org/)
 
+## My Recent Repositories
+
+[![StarBucksClone](https://img.shields.io/badge/StarBucksClone-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/StarBucksClone)
+[![Pinterest Clone](https://img.shields.io/badge/Pinterest_Clone-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/pinterest_Clone)
+[![YouTube Clone](https://img.shields.io/badge/You_Tube_Clone-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/You_Tube_Clone)
+[![Damesnch Website Clone](https://img.shields.io/badge/Damesnch-Website-Clone-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/Damesnch-Website-Clone)
+[![AnimeXJJk](https://img.shields.io/badge/AnimeXJJk-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/AnimeXJJk)
+[![Emoji Finder](https://img.shields.io/badge/EmojiFinder.com-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/emojiFinder.com)
+
 
 👇 Hit in your console or terminal to connect with me.
 
