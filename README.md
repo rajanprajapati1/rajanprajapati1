@@ -57,36 +57,9 @@
 <details open>
   <summary>🎮 Play Guess the Number</summary>
   <pre><code>
-```javascript
-    // Guess the Number Game
-    // Generate a random number between 1 and 100
-    const secretNumber = Math.floor(Math.random() * 100) + 1;
-    let attempts = 0;
-
-    // Function to check the user's guess
-    function checkGuess() {
-      // Get user input
-      const guess = prompt('I\'m thinking of a number between 1 and 100. Can you guess it?');
-
-      // Increment the attempts counter
-      attempts++;
-
-      // Check if the guess is correct
-      if (!guess || isNaN(guess)) {
-        alert('Please enter a valid number.');
-        checkGuess(); // Ask for input again
-      } else if (guess == secretNumber) {
-        alert(`🎉 Congratulations! You guessed the number ${secretNumber} in ${attempts} attempts.`);
-      } else {
-        const message = guess < secretNumber ? 'Too low! Try again.' : 'Too high! Try again.';
-        alert(message);
-        checkGuess(); // Ask for input again
-      }
-    }
-
-    // Start the game
-    checkGuess();
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake Game" title="Snake Game" />
+</p>
   </code></pre>
 </details>
 
