@@ -12,11 +12,12 @@
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
+- 👨‍💻  JavaScript, HTML ,CSS
+- ⚙️ React, NEXT JS, VANILLA JS
+- 👁️ SASS, CSS, Styled-components ,SCSS ,TAILWIND
+- 💽  MongoDB
+- 🔥  NodeJS ,ExpressJs , JWT ,PASSPORT JS
++ a lot more :
 
 
 👇 Hit in your console or terminal to connect with me.
