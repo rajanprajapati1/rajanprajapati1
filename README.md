@@ -3,10 +3,21 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajanprajapati1/)](https://www.linkedin.com/in/rajanprajapati1/)
+[![Linkedin: anmol](https://img.shields.io/badge/-rajan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajanprajapati1/)](https://www.linkedin.com/in/rajanprajapati1/)
 ![GitHub followers](https://img.shields.io/github/followers/rajanprajapati?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rajanprajapati1.me/)](https://rajanprajapati1.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=rajanprajapati1.rajanprajapati1)
+
+
++ a lot more ;)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
+
 
 👇 Hit in your console or terminal to connect with me.
 
