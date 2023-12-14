@@ -79,8 +79,13 @@ const Rajan = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
+## My GitHub Stats
 [![Rajan Prajapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajanprajapati1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprajapati1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your_linkedin_profile)
@@ -88,6 +93,8 @@ const Rajan = {
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
 
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
