@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Hey I'm Rajan Prajapati <a href="https://www.oneorigin.us/">
+<h1><em>Hey I'm Rajan Prajapati <a href="https://www.oneorigin.us/">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em></h1>
 
 [![Linkedin: anmol](https://img.shields.io/badge/-rajan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajanprajapati1/)](https://www.linkedin.com/in/rajanprajapati1/)
 ![GitHub followers](https://img.shields.io/github/followers/rajanprajapati?label=Follow&style=social)
