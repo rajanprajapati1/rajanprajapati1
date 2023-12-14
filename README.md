@@ -53,6 +53,40 @@
 [![AnimeXJJk](https://img.shields.io/badge/AnimeXJJk-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/AnimeXJJk)
 [![Emoji Finder](https://img.shields.io/badge/EmojiFinder.com-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/emojiFinder.com)
 
+<!-- Game Section -->
+<details open>
+  <summary>🎮 Play Guess the Number</summary>
+  <p align="center">
+    <strong>Guess the Number Game</strong>
+  </p>
+  <p align="center">
+    I'm thinking of a number between 1 and 100. Can you guess it?
+  </p>
+  <p align="center">
+    <input type="number" id="guess" placeholder="Enter your guess" />
+    <button onclick="checkGuess()">Submit Guess</button>
+  </p>
+  <p align="center" id="result"></p>
+
+  <script>
+    const secretNumber = Math.floor(Math.random() * 100) + 1;
+    let attempts = 0;
+
+    function checkGuess() {
+      const guess = document.getElementById('guess').value;
+      attempts++;
+
+      if (guess == secretNumber) {
+        document.getElementById('result').innerHTML = `🎉 Congratulations! You guessed the number ${secretNumber} in ${attempts} attempts.`;
+      } else if (guess < secretNumber) {
+        document.getElementById('result').innerHTML = 'Too low! Try again.';
+      } else {
+        document.getElementById('result').innerHTML = 'Too high! Try again.';
+      }
+    }
+  </script>
+</details>
+
 
 👇 Hit in your console or terminal to connect with me.
 
