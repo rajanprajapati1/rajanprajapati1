@@ -85,9 +85,6 @@ const Rajan = {
 
 ## Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprajapati1&langs_count=8&hide=html,css&custom_title=My%20Custom%20Languages)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprajapati1&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprajapati1&layout=donut)](https://github.com/rajanprajapati1/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprajapati1&hide_progress=true)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your_linkedin_profile)
