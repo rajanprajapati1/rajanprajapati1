@@ -1,33 +1,60 @@
-[![MasterHeader](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](www.linkedin.com/in/rajanprajapati1)
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Hey I'm Rajan Prajapati <a href="https://www.oneorigin.us/">
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<h1 align="center">Hi 👋, I'm Rajan Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" align="right" alt="coding" width="400" />
+[![Twitter Follow](https://img.shields.io/twitter/follow/rajanprajapati?label=Follow)](https://twitter.com/intent/follow?screen_name=rajanprajapati)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajanprajapati1/)](https://www.linkedin.com/in/rajanprajapati1/)
+![GitHub followers](https://img.shields.io/github/followers/rajanprajapati?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rajanprajapati1.me/)](https://rajanprajapati1.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=rajanprajapati1.rajanprajapati1)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanprajapati1&label=Profile%20views&color=0e75b6&style=flat" alt="rajanprajapati1" /> </p>
+### 📫 Like to meet me?
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajanprajapati1" alt="rajanprajapati1" /></a> </p>
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-- 🔭 I’m currently working on **User authentication System**
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-- 🌱 I’m currently learning **NodeJs**
+👇 Hit in your console or terminal to connect with me.
 
-- 💬 Ask me about **Frontend , MERN**
+```bash
+npx Rajan
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-- 📫 How to reach me **prajapatirajan776@gmail.com**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- ⚡ Fun fact **Did You Know Why web developer got a 404 error because he couldn't find the page he was looking for in real life!**
+```javascript
+const Rajan = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "React", "Next", "VanillaJS"],
+    askMeAbout: ["web dev", "tech", "app dev", "Innovative],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["mongo"],
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajanprajapati1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajanprajapati1" height="30" width="40" /></a>
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C483%20hrs%2051%20mins-blue)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanprajapati1&show_icons=true&locale=en&layout=compact" alt="rajanprajapati1" /></p>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-994-blue)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajanprajapati1&show_icons=true&locale=en" alt="rajanprajapati1" /></p>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanprajapati1&" alt="rajanprajapati1" /></p>
+**I'm an Early 🐤** 
+
+💬 Programming Languages: 
+JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
