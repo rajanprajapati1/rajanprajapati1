@@ -54,40 +54,41 @@
 [![Emoji Finder](https://img.shields.io/badge/EmojiFinder.com-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/emojiFinder.com)
 
 <!-- Game Section -->
-```javascript
 <details open>
   <summary>🎮 Play Guess the Number</summary>
-  <p align="center">
-    <strong>Guess the Number Game</strong>
-  </p>
-  <p align="center">
-    I'm thinking of a number between 1 and 100. Can you guess it?
-  </p>
-  <p align="center">
-    <input type="number" id="guess" placeholder="Enter your guess" />
-    <button onclick="checkGuess()">Submit Guess</button>
-  </p>
-  <p align="center" id="result"></p>
-
-  <script>
+  <pre><code>
+```javascript
+    // Guess the Number Game
+    // Generate a random number between 1 and 100
     const secretNumber = Math.floor(Math.random() * 100) + 1;
     let attempts = 0;
 
+    // Function to check the user's guess
     function checkGuess() {
-      const guess = document.getElementById('guess').value;
+      // Get user input
+      const guess = prompt('I\'m thinking of a number between 1 and 100. Can you guess it?');
+
+      // Increment the attempts counter
       attempts++;
 
-      if (guess == secretNumber) {
-        document.getElementById('result').innerHTML = `🎉 Congratulations! You guessed the number ${secretNumber} in ${attempts} attempts.`;
-      } else if (guess < secretNumber) {
-        document.getElementById('result').innerHTML = 'Too low! Try again.';
+      // Check if the guess is correct
+      if (!guess || isNaN(guess)) {
+        alert('Please enter a valid number.');
+        checkGuess(); // Ask for input again
+      } else if (guess == secretNumber) {
+        alert(`🎉 Congratulations! You guessed the number ${secretNumber} in ${attempts} attempts.`);
       } else {
-        document.getElementById('result').innerHTML = 'Too high! Try again.';
+        const message = guess < secretNumber ? 'Too low! Try again.' : 'Too high! Try again.';
+        alert(message);
+        checkGuess(); // Ask for input again
       }
     }
-  </script>
-</details>
+
+    // Start the game
+    checkGuess();
 ```
+  </code></pre>
+</details>
 
 
 👇 Hit in your console or terminal to connect with me.
