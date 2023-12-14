@@ -17,8 +17,6 @@
 [![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Google Auth](https://img.shields.io/badge/Google_Auth-4285F4?logo=google&logoColor=white&style=flat)](https://developers.google.com/identity)
 
-+ a lot more ;)
-
 ## Skills
 👨‍💻 **JavaScript, HTML, CSS**
    [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
