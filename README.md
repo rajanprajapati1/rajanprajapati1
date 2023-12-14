@@ -54,6 +54,7 @@
 [![Emoji Finder](https://img.shields.io/badge/EmojiFinder.com-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/emojiFinder.com)
 
 <!-- Game Section -->
+```javascript
 <details open>
   <summary>🎮 Play Guess the Number</summary>
   <p align="center">
@@ -69,7 +70,6 @@
   <p align="center" id="result"></p>
 
   <script>
-```javascript
     const secretNumber = Math.floor(Math.random() * 100) + 1;
     let attempts = 0;
 
@@ -85,9 +85,9 @@
         document.getElementById('result').innerHTML = 'Too high! Try again.';
       }
     }
-```
   </script>
 </details>
+```
 
 
 👇 Hit in your console or terminal to connect with me.
