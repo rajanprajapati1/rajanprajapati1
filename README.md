@@ -84,7 +84,7 @@ const Rajan = {
 
 
 ## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprajapati1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprajapati1&langs_count=8&hide=html,css&custom_title=My%20Custom%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Connect with Me
