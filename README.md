@@ -53,16 +53,6 @@
 [![AnimeXJJk](https://img.shields.io/badge/AnimeXJJk-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/AnimeXJJk)
 [![Emoji Finder](https://img.shields.io/badge/EmojiFinder.com-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/emojiFinder.com)
 
-<!-- Game Section -->
-<details open>
-  <summary>🎮 Play Guess the Number</summary>
-  <pre><code>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake Game" title="Snake Game" />
-</p>
-  </code></pre>
-</details>
-
 
 👇 Hit in your console or terminal to connect with me.
 
