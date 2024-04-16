@@ -87,8 +87,7 @@ const Rajan = {
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprajapati1&langs_count=9&hide=html,css&custom_title=My%Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your_linkedin_profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](your_twitter_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://in.linkedin.com/in/rajanprajapati1)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
