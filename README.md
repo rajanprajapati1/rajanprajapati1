@@ -51,6 +51,7 @@
 
 ## My Recent Repositories
 
+[![instagram-new-feature-liked-by-friend](https://img.shields.io/badge/InstagramNewFeature-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/instagram-new-feature-liked-by-friend)
 [![StarBucksClone](https://img.shields.io/badge/StarBucksClone-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/StarBucksClone)
 [![Pinterest Clone](https://img.shields.io/badge/Pinterest_Clone-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/pinterest_Clone)
 [![YouTube Clone](https://img.shields.io/badge/You_Tube_Clone-000000?style=for-the-badge&logo=github)](https://github.com/rajanprajapati1/You_Tube_Clone) 
