@@ -16,6 +16,11 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
 [![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Google Auth](https://img.shields.io/badge/Google_Auth-4285F4?logo=google&logoColor=white&style=flat)](https://developers.google.com/identity)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-3448c5?logo=cloudinary&logoColor=white&style=flat)](https://cloudinary.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white&style=flat)](https://stripe.com/)
+[![ShadcnUI](https://img.shields.io/badge/ShadcnUI-000000?logo=shadcnui&logoColor=white&style=flat)](https://shadcn.dev/)
+
+
 
 ## Skills
 👨‍💻 **JavaScript, HTML, CSS**
