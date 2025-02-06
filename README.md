@@ -8,10 +8,6 @@
 - **Databases**: MongoDB, Redis
 - **Tools & Technologies**: Git, Cloudinary, Stripe, JWT, Passport.js, Playwright, Nuqs, OpenAI, Vercel, Wrangler, Hono
 
-### Work Experience
-**Web Developer**  
-*8 months experience in frontend Engineer*  
-- Developed and maintained responsive and scalable web applications using React.
 
 ### Projects
 - [**pixie-assistant**](https://github.com/rajanprajapati1/pixie-assistant) – JavaScript | Updated 18 minutes ago
