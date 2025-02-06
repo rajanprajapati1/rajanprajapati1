@@ -1,7 +1,3 @@
-Here’s your updated README:
-
----
-
 ## Rajan Prajapati
 
 [LinkedIn](https://www.linkedin.com/in/rajanprajapati1/) | [GitHub](https://github.com/rajanprajapati1)  
@@ -25,9 +21,3 @@ Here’s your updated README:
 ### GitHub Stats
 [![Rajan Prajapati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajanprajapati1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprajapati1&langs_count=9&hide=html,css&custom_title=My%Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-This updated version includes your tech stack with specific libraries and frameworks you've worked with. Let me know if you'd like to adjust anything further!
